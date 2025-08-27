@@ -42,4 +42,5 @@ if (notaFinal>= 5){
    console.log("Parabens" + nome + ", você foi aprovado !!!")
 }else {
     console.log(nome + ", estude mais, infelizmente você foi reprovado!!!")
+    
 }
